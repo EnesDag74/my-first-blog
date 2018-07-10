@@ -25,7 +25,7 @@ SECRET_KEY = 'ec-bs5_bn7l8t64*qi7qdd6)#4qq&622fgkc4kpf5q+232c+12'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'enesdag.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'enesdag74.pythonanywhere.com']
 
 
 # Application definition
